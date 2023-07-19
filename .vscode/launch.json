@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/lucyg/Downloads/Resit",
-      "program": "c:/Users/lucyg/Downloads/Resit/build/Debug/outDebug",
+      "cwd": "c:/Users/lucyg/Downloads/Software-Porfolio",
+      "program": "c:/Users/lucyg/Downloads/Software-Porfolio/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
