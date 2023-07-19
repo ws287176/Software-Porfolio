@@ -9,10 +9,7 @@
 #include <sstream>
 //using namespace Patient;
 
-
 using namespace std;
-
-
 
 struct User {
     string username;
