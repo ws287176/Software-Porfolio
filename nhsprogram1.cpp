@@ -265,7 +265,8 @@ void patientMenu(User user) {
 
     cout << "\t Press 5 to get treatments               |" << std::endl;
 
-    // New number 6 change password
+    cout << "\t Press 6 to change your password         |" << std::endl;
+
     // read user details using function || data type: vector<User>
     // use for statement to go through the vector then change that users
     // password to the new password
